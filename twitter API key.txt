@@ -1,0 +1,5 @@
+ API Key = hR7g2HKazPs2QLVeO7VydxksU
+ API Key secret = ennGDyiTCXQH3Vie60tBJhfw6OoKES6ePZolVRcDBXcNuXMZAx
+ bearer token = AAAAAAAAAAAAAAAAAAAAABlofgEAAAAAqm5m2Vs0Ovaw470LvUQKn8QPl8k%3DjTeL6DStVitG1s6S0kgGbgin1ODDVFbc6NrPcXMZufMnfwoqwy
+access token = 1545085917681324032-xEZk7fmO3vQHpTUO4VeUVz1kaWGGUz
+access token secret = T1q6t81YQ3cUd5i3ndsU1oe2rmSEpaQ9uX7IRz28bXdV0
